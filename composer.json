@@ -1,0 +1,12 @@
+{
+    "name": "prazdniksytkami/site",
+    "description": "Сайт Праздник сУтками",
+    "type": "project",
+    "require": {
+        "php": "^7.4",
+        "vlucas/phpdotenv": "^5.4"
+    },
+    "config": {
+        "platform-check": false
+    }
+}
